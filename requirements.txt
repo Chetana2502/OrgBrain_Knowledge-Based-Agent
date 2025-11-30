@@ -1,0 +1,11 @@
+streamlit
+groq
+python-dotenv
+llama-index
+chromadb
+pypdf
+
+# NEW ↓
+llama-index-embeddings-huggingface
+sentence-transformers
+transformers
